@@ -1,0 +1,26 @@
+<root>
+    <doc>
+        <field1>1</field1>
+        <field2>Petrov Pavel Pavlovich</field2>
+        <field3>12.12.2003</field3>
+        <field4>173</field4>
+        <field5>74</field5>
+        <field6>М</field6>
+    </doc>
+    <doc1>
+        <field1>2</field1>
+        <field2>Зубов Константин Петрович</field2>
+        <field3>12.12.2004</field3>
+        <field4>171</field4>
+        <field5>68</field5>
+        <field6>М</field6>
+    </doc1>
+    <doc3>
+        <field1>3</field1>
+        <field2>Надеждин Борис Анатольевич</field2>
+        <field3>10.12.2003</field3>
+        <field4>176</field4>
+        <field5>79</field5>
+        <field6>М</field6>
+    </doc3>
+</root>
